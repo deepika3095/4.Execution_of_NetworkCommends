@@ -1,3 +1,5 @@
+# DEEPIKA R
+# 212223230038
 # 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
@@ -26,7 +28,20 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
+# Program
+# Client
+Developed by : Deepika R
+
+212223230038
+![image](https://github.com/deepika3095/4.Execution_of_NetworkCommends/assets/151625159/8fddeaac-eb66-4adf-aa52-256f0bedba02)
+# Server
+Developed by : Deepika R
+
+212223230038
+![image](https://github.com/deepika3095/4.Execution_of_NetworkCommends/assets/151625159/a0cfd822-e800-4b3b-8ffd-094c502433ff)
+
 ## Output
+![image](https://github.com/deepika3095/4.Execution_of_NetworkCommends/assets/151625159/2fc94761-aacf-4d4a-a6c9-543aedf66aec)
 
 ## Result
 Thus Execution of Network commands Performed 
