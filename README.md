@@ -30,24 +30,14 @@ This commands includes
 
 # Program
 # Client
-Developed by : Deepika R
-
-212223230038
 ![image](https://github.com/deepika3095/4.Execution_of_NetworkCommends/assets/151625159/8fddeaac-eb66-4adf-aa52-256f0bedba02)
 # Server
-Developed by : Deepika R
-
-212223230038
 ![image](https://github.com/deepika3095/4.Execution_of_NetworkCommends/assets/151625159/a0cfd822-e800-4b3b-8ffd-094c502433ff)
 
 ## Output
 ![image](https://github.com/deepika3095/4.Execution_of_NetworkCommends/assets/151625159/2fc94761-aacf-4d4a-a6c9-543aedf66aec)
 
 # Traceroute command:
-Developed by: Deepika R
-
-212223230038
-
 ![image](https://github.com/deepika3095/4.Execution_of_NetworkCommends/assets/151625159/b9c12145-684e-462f-b251-f1f668a686e5)
 
 # Output:
